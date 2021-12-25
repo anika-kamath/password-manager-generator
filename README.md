@@ -1,4 +1,4 @@
-# password-manager-generator
+## password-manager-generator
 A simple password manager and generator system created using Tkinter GUI
 
  - Enter the website, email/username and your password 
@@ -8,3 +8,5 @@ A simple password manager and generator system created using Tkinter GUI
  
  - Used Messagebox module from Tkinter to show confirmation and error pop ups
  - Used Pyperclip module for copy and paste clipboard functions 
+ 
+ ##### The sample data.txt file shows how the data will be saved
